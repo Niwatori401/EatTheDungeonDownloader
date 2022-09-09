@@ -1,0 +1,4 @@
+This file is a modified version of one from:
+https://github.com/website-scraper/website-scraper-puppeteer
+
+For the downloader to function it has to have a small change applied to it.
