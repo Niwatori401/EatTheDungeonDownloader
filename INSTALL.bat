@@ -1,3 +1,8 @@
+@ECHO off
+WHERE /Q node || (ECHO Node.js must be installed before using this script! & PAUSE & EXIT)
+
+IF EXIST %~dp0/wget.exe (ECHO wget located, good to continue) ELSE (ECHO Missing wget.exe! Place it in the directory next to this script. & PAUSE & EXIT)
+
 CALL npm install http-server --verbose
 CALL npm install website-scraper --verbose
 CALL npm install website-scraper-puppeteer --verbose
