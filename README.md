@@ -3,7 +3,7 @@ This project will allow you to download a local copy of "Eat the Dungeon". It us
 
 <h2>HOW TO USE</h2>
 
-You **MUST** have Node.js installed for this to work. <br>
+You **MUST** have Node.js installed for this to work. I suggest checking the box to install the tools for chocolatey as I have not tested without them.<br>
 In addition, **you need wget.exe**. Put it in the main directory (with index.js and INSTALL.bat).
 
 You can download Node.js from here:<br>
