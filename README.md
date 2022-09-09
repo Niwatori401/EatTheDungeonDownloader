@@ -13,7 +13,8 @@ You can download wget from here (click the **EXE** option for either 32-bit or 6
 (Windows) <br>
 https://eternallybored.org/misc/wget/ <br>
 
-1. After installing Node and placing wget.exe in the directory, run INSTALL.bat. This will download the game. This can take a *really* long time, so be patient! At some points it may appear frozen. This is *probably* not the case. It should take about twenty minutes to complete, but if it takes more than an hour to install the game on a normal internet connection then there may be a problem. Otherwise I advise to just wait it out.
+1. After installing Node and placing wget.exe in the directory, run INSTALL.bat. This will download the game. This can take a *really* long time, so be patient! At some points it may appear frozen. This is *probably* not the case. It should take about twenty minutes to complete, but if it takes more than an hour to install the game on a normal internet connection then there may be a problem. Otherwise I advise to just wait it out. 
+Note: Part of the install process opens a tab in a Chromium instance! Just leave it be and it will close itself.
 
 2. After all is done in the previous step, hit RUN_GAME.bat. This should open a new tab in your web browser with the game loaded. If it has nothing on it try refreshing the page.
 
