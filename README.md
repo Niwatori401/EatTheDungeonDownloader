@@ -13,6 +13,8 @@ You can download wget from here (click the **EXE** option for either 32-bit or 6
 (Windows) <br>
 https://eternallybored.org/misc/wget/ <br>
 
+0. Download the repo. Extract the folder somewhere where the folder path <b>doesn't have spaces</b>. It will break if there is a space in the folder path.
+
 1. Install Node.js. Click the link above and follow the installer. As written above, I suggest checking the box at the end to also install extra tools.
 
 2. "Install" wget. Download wget.exe from the link above using the "EXE" option. Place the downloaded executable in the folder with INSTALL.bat and RUN_GAME.bat. Note: you don't need to actually _use_ the exe, but the scripts need it to function. Also note the exe MUST be named "wget.exe". It should come that way from the site so just don't rename it.
