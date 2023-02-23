@@ -13,7 +13,7 @@ You can download wget from here (click the **EXE** option for either 32-bit or 6
 (Windows) <br>
 https://eternallybored.org/misc/wget/ <br>
 
-0. Download the repo. Extract the folder somewhere where the folder path <b>doesn't have spaces</b>. It will break if there is a space in the folder path.
+0. Download the repo. Extract the folder somewhere.
 
 1. Install Node.js. Click the link above and follow the installer. As written above, I suggest checking the box at the end to also install extra tools.
 
