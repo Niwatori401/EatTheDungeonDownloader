@@ -1,5 +1,5 @@
 <h2>ABOUT</h2>
-This project will allow you to download a local copy of "Eat the Dungeon". It uses several js plugins utilizing puppeteer and wget to scrape the site and then uses the http-server package to allow you to play it. The purpose of this project is to enable individuals to add custom content, change the function or balance of the game as they see fit or play the game offline.
+This project will allow you to download a local copy of "Eat the Dungeon". The purpose of this project is to enable individuals to add custom content, change the function or balance of the game as they see fit or play the game offline.
 
 <h2>HOW TO USE</h2>
 
