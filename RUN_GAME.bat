@@ -1,3 +1,0 @@
-START LAUNCH_SERVER.bat
-TIMEOUT 4
-START http://localhost:8080/
