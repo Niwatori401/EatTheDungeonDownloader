@@ -9,7 +9,7 @@ const fetchSingleResource = (urlResource, resolvedIP, status) => {
     status.fileName = urlResource;
     
     return new Promise((resolve, reject) => {
-        const maxAttempts = 5;
+        const maxAttempts = 10;
         
         const call = (url) => {
             const controller = new AbortController();
